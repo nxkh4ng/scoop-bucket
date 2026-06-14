@@ -1,0 +1,17 @@
+{
+  "version": "0.4.0",
+  "description": "A lightweight CLI tool for Conventional Commits",
+  "homepage": "https://github.com/nxkh4ng/snap-commit",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/nxkh4ng/snap-commit/release/download/v0.4.0/snap_0.4.0_windows_amd64.zip",
+      "hash": "806c7f947c5907038c78a4754f670485457663177c78e303840b472277c45929"
+    },
+    "arm64": {
+      "url": "https://github.com/nxkh4ng/snap-commit/release/download/v0.4.0/snap_0.4.0_windows_arm64.zip",
+      "hash": "2429abd1ee49d9328c228e78883defdbd157dc46f97aba29cfee07b8d79a57d8"
+    }
+  },
+  "bin": "snap.exe"
+}
